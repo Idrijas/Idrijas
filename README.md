@@ -40,13 +40,12 @@
 ### 📊 Coding Activity & Problem Solving
 
 <div align="center">
-  <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/idrijas?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idrijas&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrijas&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Idrijas&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idrijas&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
