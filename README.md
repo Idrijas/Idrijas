@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Application Dev**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,8 +36,9 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-
-### 📊 Coding Activity & Problem Solving
+<br>
+<br>
+### Coding Activity & Problem Solving
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/idrijas?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
